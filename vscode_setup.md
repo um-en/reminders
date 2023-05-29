@@ -30,3 +30,10 @@ The content of the *settings* file should be as follows:
     "python.envFile": "${$workspaceFolder}/.env"
 }
 ```
+
+
+### Additional content
+Some useful links found during research:
+- https://code.visualstudio.com/docs/editor/multi-root-workspaces#_settings
+- https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code
+- https://code.visualstudio.com/docs/python/environments
