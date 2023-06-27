@@ -1,4 +1,4 @@
-# **Standard template of settings used in VSCode**
+# **Standard setup used for Visual Studio Code**
 
 This lists personal template used to set up any project worked on in VS Code
 
